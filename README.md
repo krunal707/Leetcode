@@ -3,7 +3,7 @@ Leetcode Problems
 
 
 List
-1. 
+1. Two Sum
 2. 
 
 
@@ -13,7 +13,7 @@ List
 
 
 Easy
-1. 
+1. Two_Sum.java
 
 Medium
 1. 
