@@ -1,0 +1,7 @@
+Add to Notes
+
+ String[] words = str.split(" "); // To add to notes
+
+ fresh.add("" + i + j);   // Add to notes
+
+ int i = s.charAt(0) - '0';
